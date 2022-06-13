@@ -1,0 +1,23 @@
+{
+  "name": "core-node",
+  "version": "1.0.0",
+  "description": "A package with code for learn node basics",
+  "main": "src/intro.js",
+  "scripts": {
+    "start": "nodemon src/intro.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bucklandevelopment/node-js-0to100.git"
+  },
+  "author": "jessie buckland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bucklandevelopment/node-js-0to100/issues"
+  },
+  "homepage": "https://github.com/Bucklandevelopment/node-js-0to100#readme",
+  "devDependencies": {
+    "nodemon": "2.0.16"
+  }
+}
