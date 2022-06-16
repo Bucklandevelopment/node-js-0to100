@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Bucklandevelopment/node-js-0to100#readme",
   "devDependencies": {
     "nodemon": "2.0.16"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "yargs": "^11.0.0"
   }
 }
