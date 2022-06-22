@@ -1,4 +1,4 @@
-const { io } = require('../server');
+const { io } = require('../app');
 const { Usuarios } = require('../classes/usuarios');
 const { crearMensaje } = require('../utilidades/utilidades');
 
