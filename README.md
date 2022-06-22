@@ -19,10 +19,12 @@ NodeJs Course Contents
 
 ### Lista de proyectos
 
-1. socket-chat: arreglar mongo
+1. socket-chat: arreglar mongo DONE
 
 2. multiplicar usar -h para mostrar la ayuda
 
-3. clima-app revisar el uso de flechas y caracteres raros
+3. clima-app revisar el uso de flechas y caracteres raros DONE
 
 4. todo-list revisar guardado de archivo y inquirer flechas input
+
+5. El proyecto de socket chat sin estilos contiene datos del rest server tocho con mongo y demás ojo

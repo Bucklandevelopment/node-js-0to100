@@ -6,14 +6,14 @@ const dbConnection = async() => {
 
     try {
 
-        await mongoose.connect( process.env.MONGODB_CNN, {
+        await mongoose.connect( process.env.MONGODB_CNN2, {
             useNewUrlParser: true,
             useUnifiedTopology: true,
             useCreateIndex: true,
             useFindAndModify: false
         });
     
-        console.log('Base de datos online');
+        console.log('Base de datos online, para socket chat...');
 
     } catch (error) {
         console.log(error);

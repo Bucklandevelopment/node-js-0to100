@@ -15,6 +15,7 @@
     "start:socket-tickets": "node src/socket-tickets/app.js",
     "start:todo-list": "node src/todo-list/app.js",
     "start:web-express": "node src/web-express/app.js",
+    "start:rest-express": "node src/rest-express/app.js",
     "start:websockets": "node src/websockets/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -49,6 +50,5 @@
     "mongoose": "^5.11.15",
     "hbs": "^4.0.1",
     "uuid": "^8.3.2"
-
   }
 }
