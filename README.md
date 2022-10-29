@@ -28,3 +28,6 @@ NodeJs Course Contents
 4. todo-list revisar guardado de archivo y inquirer flechas input
 
 5. El proyecto de socket chat sin estilos contiene datos del rest server tocho con mongo y demás ojo, confirmado, realmente el socket chat se hizo sobre el proyecto rest server con express mongo junto con checks jwt subida de archivos a cloudinary etc...
+
+
+Añadir los puntos de la teoría del temario albañiles :D
